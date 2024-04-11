@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pennuel
-- 👀 I’m interested in ... machine learning, blockchain, android, web dev
+- 👀 I’m interested in ... machine learning, web dev, Large language models
 - 🌱 I’m currently learning ... all of the above topics, especially machine learning
 - 💞️ I’m looking to collaborate on as many projects as possible
 - 📫 How to reach me ... using my email paulpennuel@gmail.com
